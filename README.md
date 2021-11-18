@@ -1,5 +1,33 @@
 # Willadelinephillips
 
+
+Outline for project - 
+
+Harvest moon themed portfolio with character who looks like me and prints dialog. 
+
+Commands - 
+
+
+      = =
+    =     =
+   =       =
+    =     =
+     _= = _
+   /        \
+  |          |
+  |          |
+  |          |
+__|__________|___________________________________________________________________
+| Character Name                                                                |
+|                                                                               |
+|                             [Character dialong here]                          |
+|                                                                               |
+|                                                                               |
+|                                                                               |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Angular Tips -
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
 ## Development server
