@@ -14,6 +14,9 @@ import { CharacterComponent } from './character/character.component';
     BrowserModule,
     AppRoutingModule
   ],
+  exports: [
+    CharacterComponent
+  ],
   providers: [],
   bootstrap: [AppComponent]
 })
