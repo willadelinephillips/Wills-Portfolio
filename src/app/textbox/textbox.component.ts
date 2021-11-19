@@ -12,12 +12,6 @@ export class TextboxComponent implements OnInit {
 
   ngOnInit() {
 
-
-    var options = {
-      typeSpeed: 40,
-      showCursor: false,
-    };
-    
     var typed = new Typed('#typed', {
       stringsElement: '#typed-strings',
       typeSpeed: 40,
