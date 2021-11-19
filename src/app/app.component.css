@@ -4,6 +4,8 @@
     border-width: 2%;
     border-color: black;
     padding:2%;
+}
+#total-dialog {
     position:absolute;
     bottom:0;
     width:80%;
