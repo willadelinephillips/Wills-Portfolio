@@ -10,6 +10,10 @@ export class TextboxComponent implements OnInit {
 
   constructor() { }
 
+   Testyboi() {
+    console.log("hewwo?")
+  }
+
   ngOnInit() {
 
     var typed = new Typed('#typed', {

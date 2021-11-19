@@ -9,7 +9,9 @@ export class CharacterComponent implements OnInit {
 
   constructor() { }
 
+
   ngOnInit(): void {
+
   }
 
 }
