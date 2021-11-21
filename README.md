@@ -29,6 +29,7 @@ __|__________|__________________________________________________________________
 Used Typed.js -
 https://github.com/mattboldt/typed.js/
 
+Used Rgrx
 Angular Tips -
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
