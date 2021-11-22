@@ -8,8 +8,8 @@ import Typed from 'typed.js';
 })
 export class TextboxComponent implements OnInit {
 
-  @Input()  size!: string;
-  @Output() sizeChange = new EventEmitter<string>();
+  @Input()  changeText!: string;
+  @Output() changeTextChange = new EventEmitter<string>();
 
   constructor() { }
 
