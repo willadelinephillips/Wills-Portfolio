@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 import Typed from 'typed.js';
 
 @Component({
@@ -7,6 +7,9 @@ import Typed from 'typed.js';
   styleUrls: ['./textbox.component.css']
 })
 export class TextboxComponent implements OnInit {
+
+  @Input()  size!: string;
+  @Output() sizeChange = new EventEmitter<string>();
 
   constructor() { }
 

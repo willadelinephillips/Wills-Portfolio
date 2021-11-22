@@ -10,7 +10,10 @@ export class AppComponent {
   Testyboi() {
     var clickText = "clicked!";
     console.log(clickText)
+    this.fontSizePx = clickText;
   }
+
+  fontSizePx = 'unclicked';
 
   title = 'willadelinephillips';
 }
