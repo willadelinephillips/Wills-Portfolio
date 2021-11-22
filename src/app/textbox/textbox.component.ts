@@ -11,16 +11,20 @@ export class TextboxComponent implements OnInit {
   @Input()  changeText!: string;
   @Output() changeTextChange = new EventEmitter<string>();
 
-  constructor() { }
+
+  constructor() { 
+
+  }
 
   ngOnInit() {
 
     var typed = new Typed('#typed', {
-      stringsElement: '#typed-strings',
+      stringsElement: '#text1',
       typeSpeed: 40,
       showCursor: false,
     });
-    
+
+
 }
 
 }
