@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Strazo logo" src="../assets/Strazo.png">
+    <img alt="Strazo logo" src="../assets/Strazo.png" class="mainimg">
     <HelloWorld msg="Welcome!"/>
   </div>
 </template>
@@ -16,3 +16,8 @@ export default {
   }
 }
 </script>
+<style>
+.mainimg {
+  width:250px;
+}
+</style>
