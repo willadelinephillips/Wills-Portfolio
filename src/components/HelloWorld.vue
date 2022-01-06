@@ -63,6 +63,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
+h1, h2, h3,h4,h5,h6, p {
+  font-size: 120%;
+}
 h3 {
   margin: 2% 0 0;
 }
@@ -81,6 +84,5 @@ p {
   text-align: center;
   margin-right:15%;
   margin-left:15%;
-  font-size: 120%;
 }
 </style>
