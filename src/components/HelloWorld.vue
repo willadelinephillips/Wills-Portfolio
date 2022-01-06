@@ -17,6 +17,18 @@
         <li>HTML/CSS</li>
         <li>Javascript</li>
       </ul>
+      <li><b>Frameworks:</b></li>
+      <ul>
+        <li>React</li>
+        <li>Angular</li>
+        <li>Vue</li>
+      </ul>
+      <li><b>Works:</b></li>
+      <ul>
+        <li><a href="https://codepen.io/willatwork/pen/MWpePVG">Ping Pong</a></li>
+        <li><a href="https://kittkatarts.com/">KittKatArts</a></li>
+        <li><a href="https://github.com/willadelinephillips/jillians-cookbook">Jillian's Cookbook</a></li>
+      </ul>
     </ul>
   </div>
 </template>
