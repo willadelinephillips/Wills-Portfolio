@@ -42,7 +42,7 @@
       ability to self-teach. I was homeschooled until the age of 19, and confidently refer to 
       myself as an autodidact. I can utilize the fundimentals of programming to familiarize 
       myself with the language you need, and odds are I've already played with it and just don't 
-      have quite enough confidance to list it on my portfolio. Check with me!</p>
+      have quite enough confidence to list it on my portfolio. Check with me!</p>
     <p> Regardless of your decision, I deeply appreciate you considering me. Every consideration 
       is one step closer to being hired, and being hired is the foot in the door I need to 
       achieve my goals. I hope the very best for you and your company, and that even if you don't 
