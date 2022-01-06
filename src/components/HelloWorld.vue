@@ -69,7 +69,7 @@ a {
 }
 p {
   text-align: center;
-  margin-right:20%;
-  margin-left:20%;
+  margin-right:15%;
+  margin-left:15%;
 }
 </style>
