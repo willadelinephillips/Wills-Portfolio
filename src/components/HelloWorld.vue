@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <h3>やれやれだぜ (Good Grief)!</h3>
     <h4>You seem to have found my portfolio...!</h4>
-    <p>Well. All the important stuff is down there, and the less pertinent and more fun stuff is 
+    <p>Well... All the important stuff is down there, and the less pertinent and more fun stuff is 
       up there. If you're in a rush, head down. Otherwise, feel free to wander.
     </p>
     <h3>Looking for something in particular?</h3>
@@ -33,9 +33,9 @@
       </ul>
     </ul>
     <h3>On the fence about hiring me to be your new Software Developer?</h3>
-    <p> My name is Will (Willow) Phillips. I'm a student of code, with and endless drive to 
+    <p> My name is Will (Willow) Phillips. I'm a student of code, with an endless drive to 
       create and improve. I just want to let you know what an honor it is that you're considering 
-      me. I work very hard every day, having worked that day or not, tired or not, to improve my 
+      me. I work very hard every day, hours upon hours at a time, tired or not, to improve my 
       coding abilities so I can enter the field of my dreams. If there was an award for persistance, 
       it'd be listed with my frameworks and languages.</p>
     <p> If your position contains a language or skill that I don't list, please ask me about my 
