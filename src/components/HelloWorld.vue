@@ -82,7 +82,7 @@ a {
 }
 p {
   text-align: center;
-  margin-right:10%;
-  margin-left:10%;
+  margin-right:5%;
+  margin-left:5%;
 }
 </style>
