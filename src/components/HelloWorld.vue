@@ -4,7 +4,7 @@
     <h3>やれやれだぜ (Good Grief)!</h3>
     <h4>You seem to have found my portfolio...!</h4>
     <p>Well... All the important stuff is down there, and the less pertinent and more fun stuff is 
-      up there. If you're in a rush, head down. Otherwise, feel free to wander.
+      up above at the navbar. If you're in a rush, head down. Otherwise, feel free to wander.
     </p>
     <h3>Looking for something in particular?</h3>
     <ul>
