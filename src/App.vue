@@ -18,6 +18,8 @@
 #nav {
   padding: 30px;
   background-color: rgb(189, 184, 184);
+  margin-bottom: 1%;
+  border-radius: 5%;
 }
 
 #nav a {

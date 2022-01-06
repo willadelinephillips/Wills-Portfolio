@@ -72,8 +72,7 @@ ul {
 }
 li {
   margin: 0 10px;
-  padding-bottom:.3%;
-  padding-top:.3%;
+  padding:.2%;
 }
 a {
   color: #42b983;
