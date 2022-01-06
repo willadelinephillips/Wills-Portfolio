@@ -34,7 +34,16 @@ export default {
 <style scoped>
 h3 {
   margin: 40px 0 0;
-} 
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin: 0 10px;
+  padding-bottom:2px;
+  padding-top:2px;
+}
 a {
   color: #42b983;
 }
