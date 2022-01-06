@@ -7,7 +7,7 @@
     <h3>Programming?</h3>
     <p>I realized my passion for programming the second I first toyed with HTML. All I want to do 
       for the forseeable future is write code and create new things on the Web.</p>
-    <h3>Okay, but what about those rare occasions that you do leave the house?</h3>
+    <h3>Okay, but what about those rare occasions when you do leave the house?</h3>
     <p>I live in SoCal, where I go to Balboa Park and the beach. Again, only if forced to leave 
       the house.</p>
     <h3>Backstory?</h3>
