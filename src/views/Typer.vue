@@ -2,7 +2,6 @@
   <div class="container">
     <h1>Coding is
       <span class="typed-text">{{ typeValue }}</span>
-      <span class="cursor" :class="{'typing': typeStatus}">&nbsp;</span>
     </h1>
   </div>
 </template>
@@ -72,16 +71,6 @@ import { setTimeout } from 'timers';
     font-weight: normal;
     span.typed-text {
       color: #D2B94B;
-    }
-    span.cursor {
-      display: inline-block;
-      margin-left: 3px;
-      width: 4px;
-      background-color: #fff;
-      animation: cursorBlink 1s infinite;
-    }
-    span.cursor.typing {
-      animation: none;
     }
   }
   @keyframes cursorBlink {
