@@ -31,3 +31,8 @@
   color: #206e4b;
 }
 </style>
+<script>
+export default {
+  name: "App"
+};
+</script>
