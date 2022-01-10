@@ -70,7 +70,7 @@ import { setTimeout } from 'timers';
     font-size: 6rem;
     font-weight: normal;
     span.typed-text {
-      color: #D2B94B;
+      color: #832183;
     }
   }
   @keyframes cursorBlink {
