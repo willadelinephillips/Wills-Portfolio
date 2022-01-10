@@ -1,7 +1,9 @@
 <template>
   <div class="container">
-    <h1>Coding is
+    <h1>
       <span class="typed-text">{{ typeValue }}</span>
+      <br>
+      <span class="typed-text">Yeet?</span>
     </h1>
   </div>
 </template>
@@ -13,9 +15,9 @@ import { setTimeout } from 'timers';
       return {
         typeValue: '',
         typeStatus: false,
-        typeArray: ['fun', 'awesome', 'a journey', 'life'],
-        typingSpeed: 200,
-        erasingSpeed: 100,
+        typeArray: ['Hello there', 'I see you have found the About section.'],
+        typingSpeed: 100,
+        erasingSpeed: 10,
         newTextDelay: 2000,
         typeArrayIndex: 0,
         charIndex: 0
