@@ -4,6 +4,7 @@
       <span class="typed-text">{{ typeValue }}</span>
       <br>
       <span class="typed-text">Yeet?</span>
+      <p>Oops! This appears to be a work in progess! Come back later</p>
     </h1>
   </div>
 </template>
@@ -15,7 +16,7 @@ import { setTimeout } from 'timers';
       return {
         typeValue: '',
         typeStatus: false,
-        typeArray: ['Hello there', 'I see you have found the About section.'],
+        typeArray: ['Hello there', 'I see you have found the Typer section.'],
         typingSpeed: 100,
         erasingSpeed: 10,
         newTextDelay: 2000,
