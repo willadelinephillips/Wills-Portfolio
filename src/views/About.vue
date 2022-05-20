@@ -10,9 +10,5 @@
     <h3>Okay, but what about those rare occasions when you do leave the house?</h3>
     <p>I live in SoCal, where I go to Balboa Park and the beach. Again, only if forced to leave 
       the house.</p>
-    <h3>Backstory?</h3>
-    <p>Pretty tragic actually, but to spare you the details, I dropped out of college to pursue 
-      web development so I could make enough to live and go to school. I've been through quite a 
-      lot, and it's made me a really strong person. I'm very proud of that.</p>
   </div>
 </template>
