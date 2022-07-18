@@ -32,7 +32,7 @@
         <li><a href="https://github.com/willadelinephillips/jillians-cookbook">Jillian's Cookbook</a></li>
       </ul>
     </ul>
-    <h3>On the fence about hiring me to be your new Software Developer?</h3>
+    <h3>On the fence about hiring me to be your new Developer?</h3>
     <p> My name is Will (Willow) Phillips. I'm a student of code, with an endless drive to 
       create and improve. I just want to let you know what an honor it is that you're considering 
       me. I work very hard every day, hours upon hours at a time, tired or not, to improve my 
